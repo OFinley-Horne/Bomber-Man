@@ -21,7 +21,7 @@ bomber.images = []
 # use D to open the door
 
 
-# the first bomb is gunna be wacky
+# the first bomb is going to be wacky
 # you can control the bombs in the air by pressing Right or Left
 
 
